@@ -2,6 +2,7 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
+// Data to update
 let DATA = {
     name: 'Jacob Cavazos-England',
     date: new Date().toLocaleDateString('en-US', {
