@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { createCanvas } = require('canvas');
+const { createCanvas, loadImage } = require('canvas');
 
 const randomMap = (color='#fff') => {
     const width = 100;
@@ -29,8 +29,14 @@ const randomMap = (color='#fff') => {
 
     context.putImageData(imageData, 0, 0)
 
-    const buffer = canvas.toBuffer('image/png')
-    fs.writeFileSync('./assets/map.png', buffer)
+    const final = createCanvas(width * 10, height * 10)
+    const finalContext = final.getContext('2d')
+    finalContext.imageSmoothingEnabled = false;
+
+    finalContext.drawImage(canvas, 0, 0, width, height, 0, 0, width * 10, height * 10)
+
+    const finalBuffer = final.toBuffer('image/png')
+    fs.writeFileSync('./assets/map.png', finalBuffer)
 }
 
 module.exports = randomMap
