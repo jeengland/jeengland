@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jeengland/jeengland#readme",
   "dependencies": {
+    "canvas": "^2.6.1",
     "mustache": "^4.0.1"
   }
 }
