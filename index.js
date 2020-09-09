@@ -39,7 +39,7 @@ for (let i = 0; i < map.length; i++) {
             cells += dead
         }
     }
-    cells += '  \n'
+    cells += '  '
     console.log(cells)
     DATA[`row${i}`] = cells
 }
