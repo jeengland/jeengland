@@ -18,19 +18,11 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '10.16'
-<<<<<<< HEAD
-      # - name: Cache dependencies and build outputs to improve workflow execution time.
-      #   uses: actions/cache@v1
-      #   with:
-      #     path: node_modules
-      #     key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-=======
       - name: Cache dependencies and build outputs to improve workflow execution time.
         uses: actions/cache@v1
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
->>>>>>> 932d2a2202595172fc0e5050653d04cd8955391c
       - name: Install dependencies
         run: npm install
       - name: Run build if present
