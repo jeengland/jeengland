@@ -11,6 +11,7 @@ let DATA = {
         day: 'numeric',
         hour: 'numeric',
         minute: 'numeric',
+        timeZone: 'America/New_York'
       }),
 };
 
