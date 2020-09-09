@@ -1,11 +1,7 @@
-My name is Jacob Cavazos-England and this README was last updated Tuesday, September 8, 11:20 PM.
+My name is Jacob Cavazos-England and this README was last updated Tuesday, September 8, 11:24 PM.
 
-![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)![live](.&#x2F;assets&#x2F;live.png)![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)  
-
-![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)![live](.&#x2F;assets&#x2F;live.png)![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)  
-
-![live](.&#x2F;assets&#x2F;live.png)![live](.&#x2F;assets&#x2F;live.png)![dead](.&#x2F;assets&#x2F;dead.png)![live](.&#x2F;assets&#x2F;live.png)![live](.&#x2F;assets&#x2F;live.png)  
-
-![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)![live](.&#x2F;assets&#x2F;live.png)![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)  
-
-![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)![live](.&#x2F;assets&#x2F;live.png)![dead](.&#x2F;assets&#x2F;dead.png)![dead](.&#x2F;assets&#x2F;dead.png)  
+![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)  
+![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)  
+![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)  
+![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)  
+![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![live](https:&#x2F;&#x2F;i.ibb.co&#x2F;VJ5mML7&#x2F;live.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)![dead](https:&#x2F;&#x2F;i.ibb.co&#x2F;x3MGSVW&#x2F;dead.png)  
