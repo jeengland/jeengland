@@ -2,8 +2,8 @@ const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-live = '![live](./assets/live.png)'
-dead = '![dead](./assets/dead.png)'
+live = '![live](https://i.ibb.co/VJ5mML7/live.png)'
+dead = '![dead](https://i.ibb.co/x3MGSVW/dead.png)'
 
 map = [
     [0, 0, 1, 0, 0],
