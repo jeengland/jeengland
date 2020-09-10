@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jeengland/jeengland#readme",
   "dependencies": {
     "canvas": "^2.6.1",
+    "gif-encoder-2": "^1.0.5",
     "mustache": "^4.0.1"
   }
 }
