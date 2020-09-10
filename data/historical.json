@@ -40818,6 +40818,7 @@
           false
         ]
       ],
+<<<<<<< HEAD
       "mapDate": "Thu Sep 10 2020 17:10:24 GMT-0400 (Eastern Daylight Time)"
     },
     {
@@ -51024,6 +51025,9 @@
         ]
       ],
       "mapDate": "Thu Sep 10 2020 17:10:57 GMT-0400 (Eastern Daylight Time)"
+=======
+      "mapDate": "Thu Sep 10 2020 21:06:15 GMT+0000 (Coordinated Universal Time)"
+>>>>>>> e0ea263b20e97a097a61167650813d0357ec0161
     }
   ]
 }
