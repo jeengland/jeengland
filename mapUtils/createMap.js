@@ -17,7 +17,7 @@ const createMap = (map, color, fileName='map.png') => {
 
     for (let i = 0; i < imageData.data.length; i += 4) {
         let value = map[i / 4]
-        if (value == 1) {
+        if (value) {
             data[i] = color[0]
             data[i + 1] = color[1]
             data[i + 2] = color[2]
