@@ -33,7 +33,12 @@ const createMap = (map, color, fileName='map.png') => {
     scaledContext.drawImage(canvas, 0, 0, width, height, 0, 0, width * 10, height * 10)
 
     const scaledBuffer = scaled.toBuffer('image/png')
-    fs.writeFileSync(`./assets/${fileName}`, scaledBuffer)
+
+    if (fileName !== null) {
+        fs.writeFileSync(`./assets/${fileName}`, scaledBuffer)
+    }
+
+    return scaledContext
 }
 
 module.exports = createMap;

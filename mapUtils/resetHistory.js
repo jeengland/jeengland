@@ -5,4 +5,6 @@ const resetHistory = () => {
     writeHistory(data)
 }
 
+resetHistory()
+
 module.exports = resetHistory
