@@ -3,6 +3,7 @@ const randomizeMap = require('./randomizeMap.js');
 const generation = require('./generation.js');
 const readHistory = require('./readHistory.js');
 const writeHistory = require('./writeHistory.js');
+const historyToGIF = require('./historyToGIF.js');
 
 const mapLogic = (color) => {
     // Pull data from historical.json
@@ -39,6 +40,8 @@ const mapLogic = (color) => {
 
     // Store the new data in historical.json
     writeHistory(data);
+
+    historyToGIF();
 }
 
 module.exports = mapLogic;
