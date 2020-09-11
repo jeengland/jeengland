@@ -41,7 +41,8 @@ const mapLogic = (color) => {
     // Store the new data in historical.json
     writeHistory(data);
 
-    historyToGIF();
+    // Generate GIF based off new data
+    historyToGIF(data);
 }
 
 module.exports = mapLogic;
