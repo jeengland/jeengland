@@ -2,11 +2,9 @@ const GIFEncoder = require('gif-encoder-2')
 const fs = require('fs')
 const path = require('path')
 
-const readHistory = require('./readHistory')
 const createMap = require('./createMap')
 
-const historyToGIF = () => {
-    const { data } = readHistory();
+const historyToGIF = (data) => {
     const color = [255, 0, 0];
     const maps = data.map((map) => {
         return createMap(map.map, color, null);
