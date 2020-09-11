@@ -27,6 +27,4 @@ const historyToGIF = (data) => {
     })
 }
 
-historyToGIF()
-
 module.exports = historyToGIF
