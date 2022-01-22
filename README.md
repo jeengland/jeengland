@@ -1,4 +1,4 @@
-My name is Jacob Cavazos-England and this README was last updated Saturday, January 22, 1:55 PM.
+My name is Jacob Cavazos-England and this README was last updated Saturday, January 22, 2:15 PM.
 README currently under development
 
 # Current State
