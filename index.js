@@ -2,10 +2,15 @@ const Mustache = require('mustache');
 const fs = require('fs');
 
 const mapLogic = require('./mapLogic.js');
+const randomizeMap = require('./randomizeMap.js');
+const resetHistory = require('./resetHistory.js');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
 const color = [255, 0, 0]
+
+resetHistory()
+randomizeMap()
 
 mapLogic(color)
 
