@@ -1,6 +1,6 @@
 <div id="header" style="text-align: center;">
   <img src="https://github.com/jeengland.png" width="150" style="border-radius: 50%;" alt="Jacob England Profile Picture" />
-  <h2>Jacob England</h2>
+  <h2>Jacob Cavazos-England</h2>
   <h4>Senior Software Engineer, Indianapolis, IN</h4>
   <div id="social" style="margin-bottom: 15px;">
     <a href="https://www.linkedin.com/in/jacobeengland/">
