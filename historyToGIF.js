@@ -42,6 +42,7 @@ const historyToGIF = (data, numFramesPerColor = 7) => {
 
   maps.forEach((map) => {
     encoder.addFrame(map);
+    encoder.addFrame(map);
   });
 
   encoder.finish();
