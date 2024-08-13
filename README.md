@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 My name is Jacob Cavazos-England and this README was last updated Tuesday, August 13, 3:17 PM.
+=======
+My name is Jacob Cavazos-England and this README was last updated Tuesday, August 13 at 5:13 PM.
+>>>>>>> 9b468dc1f (chore: reset data)
 README currently under development
 
 # Current State
