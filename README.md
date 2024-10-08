@@ -37,7 +37,7 @@
 
 <div id="game_of_life">
     <h2 align="center">Game of Life</h2>
-    <p align="center">As a personal project, I implemented a working Game of Life simulation within my GitHub README using GitHub Actions. Below, you can see the current state of the game on the left and a visualization of the last 100 steps on the right. The game updates every six hours, with the most recent update occurring on Monday, October 7, 9:46 PM.</p>
+    <p align="center">As a personal project, I implemented a working Game of Life simulation within my GitHub README using GitHub Actions. Below, you can see the current state of the game on the left and a visualization of the last 100 steps on the right. The game updates every six hours, with the most recent update occurring on Tuesday, October 8, 2:31 AM.</p>
     <div align="center">
     <img src="https://github.com/jeengland/jeengland/blob/main/assets/map.png?raw=true" alt="Current Game State" width="250" height="250">
     <img src="https://github.com/jeengland/jeengland/blob/main/assets/map.gif?raw=true" alt="Game History (Last 100 Steps)" width="250" height="250">
