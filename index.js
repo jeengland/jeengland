@@ -11,7 +11,7 @@ const color = [255, 0, 0];
 
 // Data to update
 let DATA = {
-  name: "Jacob Cavazos-England",
+  name: "Julia Cavazos-England",
   date: new Date().toLocaleDateString("en-US", {
     weekday: "long",
     month: "long",

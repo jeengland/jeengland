@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://github.com/jeengland.png" width="150" alt="Jacob England Profile Picture" />
-  <h2>Jacob Cavazos-England</h2>
+  <img src="https://github.com/jeengland.png" width="150" alt="Julia England Profile Picture" />
+  <h2>Julia Cavazos-England</h2>
   <h4>Senior Software Engineer, Indianapolis, IN</h4>
   <div id="social">
-    <a href="https://www.linkedin.com/in/jacobeengland/">
+    <a href="https://www.linkedin.com/in/juliacavazosengland/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
     </a>
   </div>
